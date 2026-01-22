@@ -1,6 +1,6 @@
 ## Lab: Improving Performance with Redis Caching
 
-![Flow](Redis caching flow in Node.js API.png)
+[Flow](Redis caching flow in Node.js API.png)
 
 ### Lab Objective:
 
