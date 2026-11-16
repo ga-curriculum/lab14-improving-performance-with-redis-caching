@@ -1,6 +1,6 @@
 ## Lab: Improving Performance with Redis Caching
 
-[Redis caching flow in Node.js API.png](https://git.generalassemb.ly/back-end-development-with-javascript/Lab14_Improving-Performance-with-Redis-Caching/blob/main/Redis%20caching%20flow%20in%20Node.js%20API.png)
+[Redis caching flow in Node.js API.png](./Redis%20caching%20flow%20in%20Node.js%20API.png)
 
 ### Lab Objective:
 
